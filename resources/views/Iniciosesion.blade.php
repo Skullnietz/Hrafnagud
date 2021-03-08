@@ -24,6 +24,7 @@
                     <img src="Imagenes/avatar.png" alt="Avatar" height="300px" weight="300px">
                 </div>
                 <form method="POST" class="col-12">
+                    @csrf
                     <div class="form-group" id="user-group">
                         <label>
                             <input name="email" type="text" class="form-control" placeholder="Correo electronico">

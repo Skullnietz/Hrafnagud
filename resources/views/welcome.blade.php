@@ -167,7 +167,7 @@
     <div class="row featurette">
       <div class="col-md-7">
         <h2 class="featurette-heading">¿Que es  <span class="text-muted">Huginn & Meninn?</span></h2>
-        <p class="lead">Reservalab es una startup, proponemos una idea de una aplicación web y móvil para la administración de citas para laboratorio en donde las personas compraran el estudio que se quieran hacer y se les hará una cita para que puedan ir al laboratorio o hacerla desde su casa sin el riesgo de contagiarse.
+        <p class="lead">Huginn & Meninn es una startup dedicada a los dispositivos de domotica, en el cual los usuarios podran comprar los dispositivos o hacerlos por su cuenta comprando los packs, los cuales contienen componentes e instrucciones arduino para aprender a armarlos.
         </p>
       </div>
       <div class="col-md-5">
